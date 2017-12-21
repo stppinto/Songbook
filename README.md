@@ -1,2 +1,1 @@
-# Songbook
-Praise and Worship
+# reactMinimal
